@@ -1,0 +1,5 @@
+import '../../../core/app_export.dart';import 'dish5_item_model.dart';import 'fiftyone_item_model.dart';class AllViewFoodOneModel {List<Dish5ItemModel> dish5ItemList = [Dish5ItemModel(foodName: "Food 2",foodDetails: "Some Details",currencySymbol: "Rs",price: "285",foodImage:ImageConstant.imgFavpngSalad1),Dish5ItemModel(foodName: "Food 3",foodDetails: "Some Details",currencySymbol: "Rs",price: "285",foodImage:ImageConstant.imgFavpngSaladMa),Dish5ItemModel(foodName: "Food 2",foodDetails: "Some Details",currencySymbol: "Rs",price: "285",foodImage:ImageConstant.imgFavpngSalad1),Dish5ItemModel(foodName: "Food 3",foodDetails: "Some Details",currencySymbol: "Rs",price: "285",foodImage:ImageConstant.imgFavpngSaladMa),Dish5ItemModel(foodName: "Food 2",foodDetails: "Some Details",currencySymbol: "Rs",price: "285",foodImage:ImageConstant.imgFavpngSalad1),Dish5ItemModel(foodName: "Food 3",foodDetails: "Some Details",currencySymbol: "Rs",price: "285",foodImage:ImageConstant.imgFavpngSaladMa)];
+
+List<FiftyoneItemModel> fiftyoneItemList = List.generate(4,(index) => FiftyoneItemModel());
+
+ }

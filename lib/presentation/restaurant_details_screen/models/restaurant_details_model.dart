@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'dish4_item_model.dart';class RestaurantDetailsModel {List<Dish4ItemModel> dish4ItemList = [Dish4ItemModel(foodName: "Food 2",details: "Some Details",rs: "Rs",price: "285",foodImage:ImageConstant.imgFavpngSalad1),Dish4ItemModel(foodName: "Food 3",details: "Some Details",rs: "Rs",price: "285",foodImage:ImageConstant.imgFavpngSaladMa),Dish4ItemModel(foodName: "Food 2",details: "Some Details",rs: "Rs",price: "285",foodImage:ImageConstant.imgFavpngSalad1),Dish4ItemModel(foodName: "Food 3",details: "Some Details",rs: "Rs",price: "285",foodImage:ImageConstant.imgFavpngSaladMa)];
+
+ }
